@@ -3,4 +3,4 @@
 
 ## An Gomoku Game developed by pure js
 
-### [Play Now](https://gogogomoku.herokuapp.com/)
+### [Play Now](https://hujienan.github.io/Gomoku-Game/)
